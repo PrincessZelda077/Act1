@@ -22,7 +22,7 @@
     "_active": true,
     "_components": [],
     "_prefab": null,
-    "_id": "83FgjKsSJA67UBGW4FQiS9",
+    "_id": "d6813c53-4337-4459-bab1-4469d0c70b55",
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
@@ -274,7 +274,7 @@
       "__id__": 5
     },
     "_enabled": true,
-    "acceleration": 10
+    "acceleration": 20
   },
   {
     "__type__": "cc.Canvas",
